@@ -8,6 +8,6 @@ Projeto criado usando a tecnologia [React Native](https://reactnative.dev/) e a 
 - Typescript
 - Styled-components
 - Expo
-- React Navigatione mais
+- React Navigation e mais
 
 ### Projeto público somente no Github
